@@ -93,7 +93,6 @@ set fund_code = @col1,
     a4 = @col23,
     a5 = nullif(@col24,''),
     a6 = nullif(@col25,'')
-
 ;
 
 
